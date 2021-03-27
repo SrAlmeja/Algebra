@@ -422,7 +422,7 @@ MonoBehaviour:
   y: 0
   z: 0
   box: {fileID: 149189362}
-  deltaVar: {x: 0, y: 0, z: 0}
+  deltaVar: {x: -1, y: 0, z: 0}
 --- !u!4 &2067204418
 Transform:
   m_ObjectHideFlags: 0
